@@ -1,2 +1,2 @@
 # failler_time
-Tarting to lean Django and ruby
+Tarting to lean Django and ruby on rails 
